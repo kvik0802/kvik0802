@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-```yaml
+\`\`\`yaml
 name: Naini Vivekanand
 location: Hyderabad, India
 focus:
@@ -31,7 +31,7 @@ focus:
   - Agent safety & guardrail middleware
 currently_building: "AIRA — CLI agent + custom 7B model"
 fun_fact: "150,000 particles > 1 opinion about your code"
-```
+\`\`\`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:3B82F6&height=3&section=header" width="100%"/>
 
@@ -120,28 +120,14 @@ fun_fact: "150,000 particles > 1 opinion about your code"
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kvik0802&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvik0802&layout=compact&theme=synthwave&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvik0802&theme=highcontrast&hide_border=true&background=1A1A2E&ring=F97316&fire=FF6B6B&currStreakLabel=8B5CF6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kvik0802&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAB308,100:FF6B6B&height=3&section=header" width="100%"/>
+<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kvik0802&theme=tokyo-night&hide_border=true&radius=16&area=true"/> <br><br>  <br><br> <img width="100%" src="https://streak-stats.demolab.com?user=kvik0802&theme=tokyonight&hide_border=true"/> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvik0802&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvik0802&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kvik0802&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvik0802&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvik0802&theme=tokyonight&utcOffset=5.5"/> </div> ---
 
 ## 🌐 Connect
-
 <p align="center">
-  <a href="https://instagram.com/k_.vik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/nainiv750"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="mailto:nainiv750@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/k_.vik"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/nainiv750"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:nainiv750@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:FF6B6B&height=120&section=footer" width="100%"/>
