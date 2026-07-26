@@ -20,7 +20,6 @@
 
 ## 🧭 About Me
 
-\`\`\`yaml
 name: Naini Vivekanand
 location: Hyderabad, India
 focus:
@@ -30,8 +29,6 @@ focus:
   - WebGL / Three.js generative graphics
   - Agent safety & guardrail middleware
 currently_building: "AIRA — CLI agent + custom 7B model"
-fun_fact: "150,000 particles > 1 opinion about your code"
-\`\`\`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:3B82F6&height=3&section=header" width="100%"/>
 
