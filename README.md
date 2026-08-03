@@ -117,10 +117,10 @@ currently_building: "AIRA — CLI agent + custom 7B model"
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kvik0802&theme=tokyo-night&hide_border=true&radius=16&area=true"/> <br><br>  <br><br> <img width="100%" src="https://streak-stats.demolab.com?user=kvik0802&theme=tokyonight&hide_border=true"/> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvik0802&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvik0802&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kvik0802&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvik0802&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvik0802&theme=tokyonight&utcOffset=5.5"/> </div> ---
+<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kvik0802&theme=tokyo-night&hide_border=true&radius=16&area=true"/> 
 
 ## 🌐 Connect
-<p align="center">
+<p align="leftside">
 <a href="https://instagram.com/k_.vik"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://x.com/nainiv750"><img src="https://skillicons.dev/icons?i=twitter" /></a>
