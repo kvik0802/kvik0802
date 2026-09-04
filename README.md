@@ -55,17 +55,10 @@ currently_building: "AIRA — CLI agent + custom 7B model"
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/AIRA-LLM">🧠 AIRA-LLM</a></b><br/>
       Custom-trained 7B model optimized for general-purpose tasks, with Ollama integration.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/AIRA-LLM?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/AIRA-LLM?style=flat-square&color=8B5CF6"/>
-      <img src="https://img.shields.io/github/license/kvik0802/AIRA-LLM?style=flat-square&color=22D3EE"/>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/A.I.R.A-CLI">⚡ A.I.R.A-CLI</a></b><br/>
       AI-powered CLI, 65+ commands, multi-provider LLM support, persistent memory, autonomous file ops.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/A.I.R.A-CLI?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/A.I.R.A-CLI?style=flat-square&color=8B5CF6"/>
-      <img src="https://img.shields.io/github/license/kvik0802/A.I.R.A-CLI?style=flat-square&color=22D3EE"/>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
