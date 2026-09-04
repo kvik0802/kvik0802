@@ -93,13 +93,7 @@ currently_building: "AIRA — CLI agent + custom 7B model"
   </picture>
 </p>
 
-<sub align="center">⚠️ This image only appears once you've run the Pac-Man Action workflow (given separately) — until then GitHub shows it as broken since the file doesn't exist yet.</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:EAB308&height=3&section=header" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kvik0802&theme=tokyo-night&hide_border=true&radius=16&area=true"/> 
 
 ## 🌐 Connect
 <p align="leftside">
