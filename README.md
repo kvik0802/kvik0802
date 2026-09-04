@@ -64,30 +64,19 @@ currently_building: "AIRA — CLI agent + custom 7B model"
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/omniscient-terminal">📊 Omniscient Terminal</a></b><br/>
       Mission-control dashboard for market intelligence — live charts, AI predictions, trade signals, paper trading.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/omniscient-terminal?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/omniscient-terminal?style=flat-square&color=8B5CF6"/>
-    </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/particle-manipulator">✨ Particle Manipulator</a></b><br/>
       Interactive 3D particle morphing engine — 150K WebGL particles transforming between shapes & cosmic formations.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/particle-manipulator?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/particle-manipulator?style=flat-square&color=8B5CF6"/>
-      <img src="https://img.shields.io/github/license/kvik0802/particle-manipulator?style=flat-square&color=22D3EE"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/agent-guardian">🛡️ Agent Guardian</a></b><br/>
       Real-time AI safety middleware for autonomous agents — intercept, score, simulate, approve, rollback.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/agent-guardian?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/agent-guardian?style=flat-square&color=8B5CF6"/>
-      <img src="https://img.shields.io/github/license/kvik0802/agent-guardian?style=flat-square&color=22D3EE"/>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/kvik0802/blood-bank-locator">🩸 Blood Bank Locator</a></b><br/>
       Locate nearby blood banks and availability quickly in emergencies.<br/>
-      <img src="https://img.shields.io/github/stars/kvik0802/blood-bank-locator?style=flat-square&color=F97316&label=stars"/>
-      <img src="https://img.shields.io/github/languages/top/kvik0802/blood-bank-locator?style=flat-square&color=8B5CF6"/>
     </td>
   </tr>
 </table>
