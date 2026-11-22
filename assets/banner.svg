@@ -1,20 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0a0a0a"/>
       <stop offset="50%" stop-color="#001a00"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
+    <filter id="glitch">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
     <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00ff41"/>
-      <stop offset="50%" stop-color="#39ff14"/>
+      <stop offset="25%" stop-color="#39ff14"/>
+      <stop offset="50%" stop-color="#ff003c"/>
+      <stop offset="75%" stop-color="#39ff14"/>
       <stop offset="100%" stop-color="#00ff41"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="160" fill="url(#bg)"/>
-  <rect width="800" height="1" y="0" fill="#00ff41" opacity="0.3"/>
-  <rect width="800" height="1" y="159" fill="#00ff41" opacity="0.3"/>
-  <text x="400" y="65" text-anchor="middle" font-family="monospace" font-size="36" font-weight="bold" fill="url(#text)">NAINI VIVEKANAND</text>
-  <text x="400" y="95" text-anchor="middle" font-family="monospace" font-size="14" fill="#00b32c">AI/ML ENGINEER · LLM SYSTEMS · EVALUATION · COMPUTER VISION</text>
-  <text x="400" y="130" text-anchor="middle" font-family="monospace" font-size="11" fill="#005c17">nainiv750@gmail.com · github.com/kvik0802 · open to work</text>
+  <rect width="800" height="200" fill="url(#bg)"/>
+  <!-- matrix rain columns -->
+  <g opacity="0.15" font-family="monospace" font-size="14" fill="#00ff41">
+    <text x="20" y="30">アイウエオ</text><text x="20" y="50">カキクケコ</text><text x="20" y="70">サシスセソ</text><text x="20" y="90">タチツテト</text>
+    <text x="80" y="40">ナニヌネノ</text><text x="80" y="60">ハヒフヘホ</text><text x="80" y="80">マミムメモ</text><text x="80" y="100">ヤユヨラリ</text>
+    <text x="140" y="25">ルレロワヲ</text><text x="140" y="45">ン0123456</text><text x="140" y="65">789ABCDEF</text>
+    <text x="680" y="35">GHIJKLMNO</text><text x="680" y="55">PQRSTUVWX</text><text x="680" y="75">YZ@#$%&amp;*</text>
+    <text x="740" y="45">0123456789</text><text x="740" y="65">ABCDEFGHIJ</text>
+  </g>
+  <!-- glitch lines -->
+  <rect x="0" y="45" width="800" height="2" fill="#ff003c" opacity="0.4"/>
+  <rect x="0" y="110" width="800" height="1" fill="#00ff41" opacity="0.3"/>
+  <rect x="0" y="155" width="800" height="2" fill="#ff003c" opacity="0.3"/>
+  <!-- main text -->
+  <text x="400" y="85" text-anchor="middle" font-family="monospace" font-size="40" font-weight="bold" fill="url(#text)" filter="url(#glitch)">N A I N I</text>
+  <text x="400" y="120" text-anchor="middle" font-family="monospace" font-size="20" fill="#00ff41" opacity="0.9">V I V E K A N A N D</text>
+  <text x="400" y="155" text-anchor="middle" font-family="monospace" font-size="11" fill="#005c17">AI/ML ENGINEER · LLM SYSTEMS · EVALUATION · COMPUTER VISION</text>
+  <rect width="800" height="1" y="0" fill="#ff003c" opacity="0.5"/>
+  <rect width="800" height="1" y="199" fill="#ff003c" opacity="0.5"/>
 </svg>
