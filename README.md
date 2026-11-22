@@ -1,196 +1,108 @@
 <!-- ============================================================
   GitHub Profile README — kvik0802 (Naini Vivekanand)
+  GitSkins "Recruiter-ready" template (satan theme) + enhanced
+  animations, pixel art, and games.
 ============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:10b981&height=200&section=header&text=Naini%20Vivekanand&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Evaluation%20%E2%80%A2%20Computer%20Vision&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://www.gitskins.com/api/section/hero?username=kvik0802&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214212892%3Fu%3D31049b6b96efd1e8ba5094d16d08ffb6b2bd6e76%26v%3D4" alt="kvik0802 hero visual" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Building+LLM+systems%2C+retrieval+%26+evaluation+pipelines;Shipping+production+AI+agents+with+800%2B+tests;Computer+vision+%26+OCR+extraction+backends;Open+to+AI%2FML+roles+%E2%80%94+let%27s+build+something+great" alt="Typing SVG" />
+<p><b>AI/ML Engineer · LLM Systems · Evaluation · Computer Vision</b></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=26&duration=2800&pause=900&color=FF003C&center=true&vCenter=true&width=760&lines=Building+LLM+systems%2C+retrieval+%26+evaluation+pipelines;Shipping+production+AI+agents+with+800%2B+tests;Computer+vision+%26+OCR+extraction+backends;Open+to+AI%2FML+roles+%E2%80%94+let%27s+build+something+great" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/kvik0802"><img src="https://img.shields.io/github/followers/kvik0802?label=Followers&style=for-the-badge&color=6366f1&labelColor=1e1b4b" alt="Followers"/></a>
-<a href="mailto:nainiv750@gmail.com"><img src="https://img.shields.io/badge/Email-nainiv750%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c4a6e" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Open%20to-Work-10b981?style=for-the-badge" alt="Open to work"/>
+<a href="https://github.com/kvik0802"><img src="https://img.shields.io/github/followers/kvik0802?label=FOLLOWERS&style=for-the-badge&color=ff003c&labelColor=1a0005" alt="Followers"/></a>
+<a href="mailto:nainiv750@gmail.com"><img src="https://img.shields.io/badge/Email-nainiv750%40gmail.com-ff003c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0005" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0005" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Work-00ff41?style=for-the-badge&labelColor=0a1a0a" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=kvik0802&label=VIEWS&color=ff003c&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br/>
+## About
 
-## 👋 Hi, I'm Naini
+> Building useful things and learning in public.
 
-I'm an **AI/ML Engineer** focused on building and shipping production AI agents and RAG systems. I work across the full stack — from prompt and workflow design, through evaluation, to production deployment.
+- 👥 **0** followers · **1** following
+- 📍 Hyderabad, India
+- 📧 nainiv750@gmail.com · 📞 +91 72889 45374
 
-- 🔭 Currently building **TwistText** — an AI document intelligence platform (OCR + LLM extraction) at **PM Accelerator**
-- 🧠 Designed **AIRA** — an autonomous multi-provider agent system with 800+ automated tests and a self-learning loop (LoRA fine-tuning → GGUF → Ollama)
-- 📊 Built evaluation infrastructure (NL-to-SQL, RAG, LLM-as-judge) wired into CI as quality gates
-- 👁️ Computer vision & OCR backends: 96%+ OCR field survival, 0.94 char F1, <1.2s latency
-- 🎓 B.Tech CSE (AI & ML) — Neil Gogte Institute of Technology, Hyderabad
+*Small, useful work over vague claims.*
 
-<br/>
+## Core toolkit
 
-## 🧰 Tech Stack
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=kvik0802&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214212892%3Fu%3D31049b6b96efd1e8ba5094d16d08ffb6b2bd6e76%26v%3D4" alt="kvik0802 stack visual" />
+</p>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,gcp,azure,git,github,linux,react,nextjs,typescript&theme=dark" alt="skill icons" />
+</p>
 
-**ML, CV & Compression**
-- PyTorch · scikit-learn
-- OpenCV · Tesseract/PaddleOCR
-- Hugging Face · LoRA/PEFT
-- Unsloth · Mixture-of-Experts
-- GGUF quantization
-- Recursive self-learning
+## Selected work
 
-</td>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=kvik0802&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214212892%3Fu%3D31049b6b96efd1e8ba5094d16d08ffb6b2bd6e76%26v%3D4" alt="kvik0802 projects visual" />
+</p>
 
-**LLM Applications & RAG**
-- LangChain · LangGraph · LlamaIndex
-- RAG · hybrid search · reranking
-- Embeddings · vector DBs
-- Pinecone · Weaviate · pgvector
-- Prompt engineering · MCP
-- Structured outputs
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Engineering**
-- Python · TypeScript · SQL · Rust
-- FastAPI · Flask · REST APIs
-- Docker · Kubernetes
-- GitHub Actions · CI/CD
-- AWS · GCP · Azure
-- Latency/memory profiling
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🧠 AIRA — Autonomous AI Agent
-> Multi-provider agent system with structured outputs, function calling, and health-scored failover. Self-learning loop with auto LoRA fine-tuning (Unsloth, GGUF, Ollama). 800+ tests.
-
-[View on GitHub →](https://github.com/kvik0802/aira-brainos-core)
-
-</td>
-<td valign="top" width="50%">
+### 🧠 AIRA — Autonomous AI Agent System
+Multi-provider agent system with structured outputs, function calling, and health-scored failover. Self-learning loop with auto LoRA fine-tuning (Unsloth, GGUF, Ollama). 800+ tests.
+[View repo →](https://github.com/kvik0802/aira-brainos-core)
 
 ### 🛡️ Agent Guardian
-> Real-time AI safety middleware — risk scoring, human-in-the-loop approval, rollback, and observability dashboards.
-
-[View on GitHub →](https://github.com/kvik0802/agent-guardian)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+Real-time AI safety middleware — risk scoring, human-in-the-loop approval, rollback, and observability dashboards.
+[View repo →](https://github.com/kvik0802/agent-guardian)
 
 ### 🔍 OmniQuery NL2SQL Agent
-> NL-to-SQL analytics agent with schema graphs, SQL AST guardrails (SQLGlot), and auto-visualizations.
-
-[View on GitHub →](https://github.com/kvik0802/OmniQuery-NL2SQL-Agent)
-
-</td>
-<td valign="top" width="50%">
+NL-to-SQL analytics agent with schema graphs, SQL AST guardrails (SQLGlot), and auto-visualizations.
+[View repo →](https://github.com/kvik0802/OmniQuery-NL2SQL-Agent)
 
 ### 📊 RL-EvalBench
-> Frontier RL environment & dynamic verification engine for LLM agents (sub-ms latency, RSS profiling via psutil).
+Frontier RL environment & dynamic verification engine for LLM agents (sub-ms latency, RSS profiling via psutil).
+[View repo →](https://github.com/kvik0802/RL-EvalBench)
 
-[View on GitHub →](https://github.com/kvik0802/RL-EvalBench)
+### 🧠 Qwen2.5-7B Elastic MoE · 📄 TwistText · 📊 LLM Eval Framework
+*Private repos — available on request.*
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+## Let’s connect
 
-### 🧠 Qwen2.5-7B Elastic MoE
-> Elastic-parameter Qwen2.5-7B with a learned MoE router + recursive self-learning loop, evaluated head-to-head vs. base. GGUF quantization + agent harness.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=kvik0802&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214212892%3Fu%3D31049b6b96efd1e8ba5094d16d08ffb6b2bd6e76%26v%3D4" alt="kvik0802 social visual" />
+</p>
 
-*Private repo*
+<p align="center">
+  <a href="https://github.com/kvik0802"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:nainiv750@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
 
-</td>
-<td valign="top" width="50%">
+<p align="center">
+  <a href="https://github.com/kvik0802">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/naini-vivekanand-769912215/">LinkedIn</a> ·
+  <a href="mailto:nainiv750@gmail.com">nainiv750@gmail.com</a>
+</p>
 
-### 📄 TwistText — Document Intelligence
-> Texas SNAP document processing: 96%+ OCR field survival, 0.94 char F1, <1.2s latency. Real-time camera quality heuristics (PM Accelerator).
+## Activity
 
-*Private repo*
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kvik0802&theme=satan" alt="kvik0802 contribution activity" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+## 🎮 Games & Animations
 
-### 📊 LLM Eval Framework
-> Execution-based + LLM-judge harness for NL-to-SQL/metric/document pipelines, wired into GitHub Actions as a quality gate.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
 
-*Private repo*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:00d4ff,100:00ff41&height=120&section=footer" width="100%"/>
+</p>
 
-</td>
-<td valign="top" width="50%">
-
-### 🧠 Neuromorphic Synapse Memory
-> Zero-forgetting continual learning nets + SAT/complexity/proof-theory benchmarks. PyTorch, CUDA.
-
-[View on GitHub →](https://github.com/kvik0802/neuromorphic-synapse-memory)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kvik0802&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=6366f1&icon_color=0ea5e9&text_color=1e293b" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvik0802&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=6366f1&text_color=1e293b" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvik0802&theme=default&hide_border=true&background=f8fafc&ring=6366f1&fire=ef4444&currStreakLabel=6366f1" alt="Streak stats"/>
-
-</div>
-
-<br/>
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kvik0802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvik0802)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naini%20Vivekanand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naini-vivekanand-769912215/)
-[![Email](https://img.shields.io/badge/Email-nainiv750%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainiv750@gmail.com)
-
-<br/>
-
-📧 **nainiv750@gmail.com** · 📞 **+91 72889 45374** · 📍 **Hyderabad, India**
-
-<br/>
-
-*Open to AI/ML Engineer roles — let's build something great.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0ea5e9,100:6366f1&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Naini Vivekanand · AI/ML Engineer · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · enhanced with animations, pixel art & games</sub></p>
