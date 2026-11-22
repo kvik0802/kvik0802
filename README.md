@@ -117,15 +117,7 @@ Watch a snake eat your GitHub contributions. Auto-regenerates every 6 hours.
   </picture>
 </p>
 
-**👾 Pac-Man — Contribution Muncher**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kvik0802/kvik0802/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
 
 ---
 
