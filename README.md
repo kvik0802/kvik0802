@@ -1,34 +1,56 @@
 <!-- ============================================================
   GitHub Profile README — kvik0802 (Naini Vivekanand)
-  Custom editorial design. No templates, no external image deps.
+  Matrix theme. Clean, not gimmicky.
 ============================================================= -->
 
-# Naini Vivekanand
+<div align="center">
 
-**AI/ML Engineer** — LLM Systems, Evaluation & Computer Vision
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a0a0a,100:00ff41&height=160&section=header&text=Naini%20Vivekanand&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%94%20LLM%20Systems%2C%20Evaluation%20%26%20Computer%20Vision&descAlignY=62&descSize=14&descColor=00b32c" width="100%"/>
 
-I build production AI systems: autonomous agents, retrieval pipelines, evaluation infrastructure, and computer-vision backends. Currently an AI/ML Software Engineer Intern at **PM Accelerator**, building the OCR and extraction backend for TwistText (96%+ OCR field survival, 0.94 char F1, <1.2s latency).
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kvik0802-181717?style=flat&logo=github)](https://github.com/kvik0802)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/naini-vivekanand-769912215/)
-[![Email](https://img.shields.io/badge/Email-nainiv750%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:nainiv750@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat)](mailto:nainiv750@gmail.com)
+<br/>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+LLM+systems+%26+evaluation+pipelines;Shipping+production+AI+agents+with+800%2B+tests;Computer+vision+%26+OCR+backends;Open+to+AI%2FML+roles" alt="Typing SVG" />
+</p>
 
-## What I Do
+<p align="center">
+  <a href="https://github.com/kvik0802"><img src="https://img.shields.io/badge/GitHub-kvik0802-0a0a0a?style=flat-square&logo=github&logoColor=00ff41" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/naini-vivekanand-769912215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=flat-square&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:nainiv750@gmail.com"><img src="https://img.shields.io/badge/Email-nainiv750%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=00ff41" alt="Email"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff41?style=flat-square&labelColor=0a0a0a" alt="Open to work"/>
+</p>
 
-**LLM Systems & Agents** — Multi-provider agent orchestration with structured outputs, function calling, health-scored failover, and self-learning loops (LoRA fine-tuning → GGUF → Ollama). 800+ automated tests.
+<br/>
 
-**Evaluation Infrastructure** — Execution-based + LLM-judge harnesses for NL-to-SQL, RAG, and document pipelines. Wired into GitHub Actions as quality gates.
+## `> whoami`
 
-**Computer Vision & OCR** — Real-time document extraction backends with camera quality heuristics, bounding-box text alignment, and async LLM inference.
+I'm an **AI/ML Engineer** focused on building and shipping production AI agents and RAG systems. I work across the full stack — from prompt and workflow design, through evaluation, to production deployment.
 
-**Model Compression** — Elastic Mixture-of-Experts conversion of dense transformers, recursive self-learning loops, GGUF quantization.
+Currently an **AI/ML Software Engineer Intern at PM Accelerator**, building the backend ML and OCR extraction pipeline for **TwistText** — an AI document intelligence platform processing Texas SNAP documents. The system achieves **96%+ OCR field survival**, **0.94 character F1**, and **sub-1.2s end-to-end latency** with real-time camera quality heuristics.
 
----
+Previously a **Data Science Intern at Cognifyz Technologies**, working on EDA, ML model development, and data visualization.
 
-## Projects
+<br/>
+
+## `> cat skills.txt`
+
+**AI / ML / CV**
+`PyTorch` · `scikit-learn` · `OpenCV` · `Hugging Face` · `OCR (Tesseract/PaddleOCR)` · `LoRA/PEFT` · `Unsloth` · `Mixture-of-Experts` · `GGUF`
+
+**LLM Applications**
+`LangChain` · `LangGraph` · `LlamaIndex` · `RAG` · `Hybrid Search` · `Reranking` · `Embeddings` · `Vector DBs (Pinecone, Weaviate, pgvector)` · `MCP` · `Prompt Engineering`
+
+**Evaluation**
+`F1 / Precision / Recall` · `LLM-as-Judge` · `Groundedness Checks` · `Regression Testing` · `Error Analysis`
+
+**Backend & Infra**
+`Python` · `TypeScript` · `SQL` · `Rust` · `FastAPI` · `Docker` · `Kubernetes` · `GitHub Actions` · `AWS` · `GCP` · `Azure`
+
+<br/>
+
+## `> ls projects/`
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -41,25 +63,9 @@ I build production AI systems: autonomous agents, retrieval pipelines, evaluatio
 | **Qwen2.5-7B Elastic MoE** *(private)* | Elastic MoE router + recursive self-learning, GGUF quantization | PyTorch, MoE, LoRA |
 | **LLM Eval Framework** *(private)* | Execution-based + LLM-judge harness, CI quality gate | Python, GitHub Actions |
 
----
+<br/>
 
-## Tech Stack
-
-**AI / ML / CV**
-`PyTorch` `scikit-learn` `OpenCV` `Hugging Face` `OCR (Tesseract/PaddleOCR)` `LoRA/PEFT` `Unsloth` `Mixture-of-Experts` `GGUF`
-
-**LLM Applications**
-`LangChain` `LangGraph` `LlamaIndex` `RAG` `Hybrid Search` `Reranking` `Embeddings` `Vector DBs (Pinecone, Weaviate, pgvector)` `MCP` `Prompt Engineering`
-
-**Evaluation**
-`F1 / Precision / Recall` `LLM-as-Judge` `Groundedness Checks` `Regression Testing` `Error Analysis`
-
-**Backend & Infra**
-`Python` `TypeScript` `SQL` `Rust` `FastAPI` `Docker` `Kubernetes` `GitHub Actions` `AWS` `GCP` `Azure`
-
----
-
-## Experience
+## `> git log --oneline`
 
 **AI/ML Software Engineer Intern** — PM Accelerator *(Present)*
 - Built the backend ML & OCR extraction pipeline for TwistText: real-time camera quality heuristics, 96%+ OCR field survival, 0.94 char F1
@@ -68,21 +74,34 @@ I build production AI systems: autonomous agents, retrieval pipelines, evaluatio
 **Data Science Intern** — Cognifyz Technologies *(04/2026 – 07/2026)*
 - Cleaned and explored real-world datasets, built ML models with pandas and scikit-learn, created stakeholder-ready visualizations
 
----
+<br/>
 
-## Education & Certifications
+## `> cat education.txt`
 
 - **B.Tech, CSE (AI & ML)** — Neil Gogte Institute of Technology, Hyderabad (2020–2024)
 - **Data Science & Generative AI** — Innomatics Research Labs, Hyderabad (2026)
 - **Certifications**: Claude 101 (Anthropic) · AI Fluency Framework (Anthropic) · EDA · Power BI · Machine Learning (Innomatics)
 - **Languages**: English · Telugu · Hindi · German · Spanish
 
----
+<br/>
 
-## Connect
+## `> cat contact.txt`
 
-📧 nainiv750@gmail.com · 📞 +91 72889 45374 · 📍 Hyderabad, India
+```
+email    : nainiv750@gmail.com
+phone    : +91 72889 45374
+github   : github.com/kvik0802
+linkedin : linkedin.com/in/naini-vivekanand-769912215
+location : Hyderabad, India
+status   : open to AI/ML Engineer roles
+```
 
-[GitHub](https://github.com/kvik0802) · [LinkedIn](https://www.linkedin.com/in/naini-vivekanand-769912215/) · [Email](mailto:nainiv750@gmail.com)
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a0a0a,100:00ff41&height=100&section=footer" width="100%"/>
 
 *Open to AI/ML Engineer roles — let's build something great.*
+
+</div>
