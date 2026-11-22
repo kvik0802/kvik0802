@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#001a00"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="50%" stop-color="#39ff14"/>
+      <stop offset="100%" stop-color="#00ff41"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg)"/>
+  <rect width="800" height="1" y="0" fill="#00ff41" opacity="0.3"/>
+  <rect width="800" height="1" y="159" fill="#00ff41" opacity="0.3"/>
+  <text x="400" y="65" text-anchor="middle" font-family="monospace" font-size="36" font-weight="bold" fill="url(#text)">NAINI VIVEKANAND</text>
+  <text x="400" y="95" text-anchor="middle" font-family="monospace" font-size="14" fill="#00b32c">AI/ML ENGINEER · LLM SYSTEMS · EVALUATION · COMPUTER VISION</text>
+  <text x="400" y="130" text-anchor="middle" font-family="monospace" font-size="11" fill="#005c17">nainiv750@gmail.com · github.com/kvik0802 · open to work</text>
+</svg>
