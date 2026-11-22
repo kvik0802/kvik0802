@@ -102,7 +102,7 @@ Frontier RL environment & dynamic verification engine for LLM agents (sub-ms lat
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:00d4ff,100:00ff41&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:ff3366,100:ff003c&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center"><sub>Naini Vivekanand · AI/ML Engineer · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · enhanced with animations, pixel art & games</sub></p>
